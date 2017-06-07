@@ -1,3 +1,8 @@
+/****************************************************
+ *
+ * Author : Steve (Seunghwa) Song <sshtel@gmail.com>
+ *
+****************************************************/
 #ifndef __LOW_PASS_FILTER_H
 #define __LOW_PASS_FILTER_H
 

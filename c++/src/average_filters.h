@@ -1,3 +1,8 @@
+/****************************************************
+ *
+ * Author : Steve (Seunghwa) Song <sshtel@gmail.com>
+ *
+****************************************************/
 #ifndef __AVERAGE_FILTERS_H
 #define __AVERAGE_FILTERS_H
 

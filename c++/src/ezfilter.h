@@ -1,3 +1,8 @@
+/****************************************************
+ *
+ * Author : Steve (Seunghwa) Song <sshtel@gmail.com>
+ *
+****************************************************/
 #ifndef __EZ_FILTER_H
 #define __EZ_FILTER_H
 

@@ -1,3 +1,9 @@
+/****************************************************
+ *
+ * Author : Steve (Seunghwa) Song <sshtel@gmail.com>
+ *
+****************************************************/
+
 #pragma once
 
 #include <stdint.h>
